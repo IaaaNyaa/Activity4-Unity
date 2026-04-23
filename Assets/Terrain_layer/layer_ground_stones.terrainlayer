@@ -8,8 +8,8 @@ TerrainLayer:
   m_PrefabAsset: {fileID: 0}
   m_Name: layer_ground_stones
   m_DiffuseTexture: {fileID: 2800000, guid: cda6ec74e3a3f3f49840fe742aa14b01, type: 3}
-  m_NormalMapTexture: {fileID: 0}
-  m_MaskMapTexture: {fileID: 0}
+  m_NormalMapTexture: {fileID: 2800000, guid: 3cde9cf07a45e5a499d903b6004e75ea, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: 4d9259a3b2e620448ae24fc5c521255a, type: 3}
   m_TileSize: {x: 5, y: 5}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}
